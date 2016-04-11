@@ -20,24 +20,40 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="dist/images/app-icon72x72@2x.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="dist/images/app-icon72x72@2x.png">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="dist/images/app-icon72x72@2x.png">
-    <link rel="apple-touch-startup-image" sizes="2048x1496" href="dist/images/launch.png" media="screen and (min-device-width: 1025px) and (max-device-width: 2048px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" sizes="1536x2008" href="dist/images/launch.png" media="screen and (min-device-width: 1025px) and (max-device-width: 2048px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" sizes="1024x748" href="dist/images/launch.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
-    <link rel="apple-touch-startup-image" sizes="768x1004" href="dist/images/launch.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
-    <link rel="apple-touch-startup-image" sizes="640x920" href="dist/images/launch.png" media="screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)">
-    <link rel="apple-touch-startup-image" sizes="320x640" href="dist/images/launch.png" media="screen and (max-device-width: 320)">
+    <link rel="apple-touch-startup-image" sizes="2048x1496" href="dist/images/launcher.jpg" media="screen and (min-device-width: 1025px) and (max-device-width: 2048px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" sizes="1536x2008" href="dist/images/launcher.jpg" media="screen and (min-device-width: 1025px) and (max-device-width: 2048px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" sizes="1024x748" href="dist/images/launcher.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+    <link rel="apple-touch-startup-image" sizes="768x1004" href="dist/images/launcher.jpg" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+    <link rel="apple-touch-startup-image" sizes="640x920" href="dist/images/launcher.jpg" media="screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)">
+    <link rel="apple-touch-startup-image" sizes="320x640" href="dist/images/launcher.jpg" media="screen and (max-device-width: 320)">
     <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="dist/styles/main-94b7b8d10a.css">
+    <link rel="stylesheet" href="dist/styles/main-55234411a5.css">
+    <script>
+        function launchSplashLoaded(){
+            setTimeout(function(){
+                document.getElementById('launch-splash').setAttribute('class', 'active');
+                setTimeout(function(){
+                    if(typeof jQuery == 'function'){
+                        jQuery('#launch').fadeOut(1000);
+                    }else{
+                        document.getElementById('launch').remove();
+                    }
+                }, 2000);
+            }, 1000);
+        }
+    </script>
 </head>
 <body>
-<div id="launch" style="background: #ffffff url('dist/images/launch.png') no-repeat; background-size: 100%; z-index: 99999"></div>
+<div id="launch" style="background: #ffffff url('dist/images/launch_bg.png') no-repeat; background-size: cover; z-index: 99999; transition: all .5s linear">
+    <div id="launch-splash"><img src="dist/images/launch_splash.png" onload="launchSplashLoaded()"></div>
+</div>
 <div id="content">
 
 </div>
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
 <script src="//cdn.bootcss.com/react/0.14.7/react.js"></script>
 <script src="//cdn.bootcss.com/react/0.14.7/react-dom.min.js"></script>
-<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
 <!--script src="dist/scripts/common-cc149b8dd8.js"></script-->
-<script src="dist/scripts/app-c5e8acf9c0.js"></script>
+<script src="dist/scripts/app-215ddc45d1.js"></script>
 </body>
 </html>
