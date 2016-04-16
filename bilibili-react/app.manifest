@@ -1,0 +1,54 @@
+CACHE MANIFEST
+
+CACHE:
+index-offline.html
+dist/images/app-icon72x72@2x.png
+dist/images/favicon.ico
+dist/images/favicon.png
+dist/images/launch.jpg
+dist/images/launch.png
+dist/images/launch_bg.jpg
+dist/images/launch_bg.png
+dist/images/launch_splash.png
+dist/images/launcher.jpg
+dist/scripts/app-0e5c5c1c67.js
+dist/styles/main-ec62888a3f.css
+dist/images/icons/home_bangumi_icon_1.png
+dist/images/icons/home_bangumi_icon_2.png
+dist/images/icons/home_bangumi_icon_3.png
+dist/images/icons/home_bangumi_icon_4.png
+dist/images/icons/home_bangumi_icon_5.png
+dist/images/icons/home_bangumi_icon_6.png
+dist/images/icons/home_bangumi_icon_7.png
+dist/images/icons/home_live_channel_icon_1.png
+dist/images/icons/home_live_channel_icon_2.png
+dist/images/icons/home_live_channel_icon_3.png
+dist/images/icons/home_live_channel_icon_4.png
+dist/images/icons/home_live_channel_icon_5.png
+dist/images/icons/home_live_channel_icon_6.png
+dist/images/icons/home_live_channel_icon_7.png
+dist/images/icons/home_live_channel_icon_8.png
+dist/images/icons/home_region_icon_1.png
+dist/images/icons/home_region_icon_10.png
+dist/images/icons/home_region_icon_11.png
+dist/images/icons/home_region_icon_12.png
+dist/images/icons/home_region_icon_2.png
+dist/images/icons/home_region_icon_3.png
+dist/images/icons/home_region_icon_4.png
+dist/images/icons/home_region_icon_5.png
+dist/images/icons/home_region_icon_6.png
+dist/images/icons/home_region_icon_7.png
+dist/images/icons/home_region_icon_8.png
+dist/images/icons/home_region_icon_9.png
+
+NETWORK:
+*
+
+FALLBACK:
+./ index-offline.html
+index.html index-offline.html
+
+SETTINGS:
+prefer-online
+
+# hash: d6737c2d2758d538b569c3fdca9b63f7c291423b65cfb6626a8664527004d639
