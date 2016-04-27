@@ -13,7 +13,7 @@
     <meta name="apple-mobile-web-app-title" content="Bilibili-Mobile">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="format-detection" content="telephone=no"> <!-- 禁止数字识自动别为电话号码 -->
+    <meta name="format-detection" content="telephone=no, email=no"> <!-- 禁止自动识别电话号码和邮箱 -->
     <link rel="shortcut icon" href="dist/images/favicon.ico">
     <link rel="alternate icon" type="image/png" href="dist/images/favicon.png">
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="dist/images/app-icon72x72@2x.png">
@@ -27,7 +27,7 @@
     <link rel="apple-touch-startup-image" sizes="640x920" href="dist/images/launcher.jpg" media="screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)">
     <link rel="apple-touch-startup-image" sizes="320x640" href="dist/images/launcher.jpg" media="screen and (max-device-width: 320)">
     <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="dist/styles/main-0ad08725a3.css">
+    <link rel="stylesheet" href="dist/styles/main-e9ec4f5f74.css">
     <script>
         function launchSplashLoaded(){
             setTimeout(function(){
@@ -52,10 +52,22 @@
 </div>
 <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
 <!--<script src="//cdn.bootcss.com/react/0.14.7/react.js"></script>-->
-<script src="vender/js/react/15.0.1/react.min.js"></script>
+<script src="vender/js/react/15.0.1/react.js"></script>
 <!--<script src="//cdn.bootcss.com/react/0.14.7/react-dom.min.js"></script>-->
-<script src="vender/js/react/15.0.1//react-dom.min.js"></script>
-<!--script src="dist/scripts/common-cc149b8dd8.js"></script-->
-<script src="dist/scripts/app-7e2860dce2.js"></script>
+<script src="vender/js/react/15.0.1/react-dom.min.js"></script>
+<!--script src="vender/js/inobounce/0.1.2/inobounce.min.js"></script-->
+<script src="dist/scripts/app-c0d1a79cb0.js"></script>
+
+<script id="inobounce"></script>
+<script>
+    (function(){
+        var inobounce = document.createElement('script'),
+            inobounceTarget = document.getElementById('inobounce');
+        inobounce.async = true;
+        inobounce.src = 'vender/js/inobounce/0.1.2/inobounce.min.js';
+        inobounceTarget.parentNode.insertBefore(inobounce, inobounceTarget);
+        inobounceTarget.remove();
+    })();
+</script>
 </body>
 </html>

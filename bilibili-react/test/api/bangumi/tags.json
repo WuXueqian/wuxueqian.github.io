@@ -1,0 +1,247 @@
+{
+  "code": 0,
+  "message": "success",
+  "result": [
+    {
+      "cover": "http://i0.hdslb.com/bfs/bangumi/f1709ec868687430df8e22cdbfb32798c93261e3.jpg",
+      "index": "1",
+      "orderType": 0,
+      "tag_id": "84",
+      "tag_name": "连载中",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/592552b37fea21b3a0f430878a1150f1.jpg",
+      "index": "2",
+      "orderType": 0,
+      "tag_id": "85",
+      "tag_name": "完结动画",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/161cc874f7217647c2da2f9a17e83afd.jpg",
+      "index": "3",
+      "orderType": 0,
+      "tag_id": "91",
+      "tag_name": "剧场版·OVA",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/bfs/bangumi/e444a5523427609921b1764270ef1d78d140026b.jpg",
+      "index": "9",
+      "orderType": 0,
+      "tag_id": "113",
+      "tag_name": "16年四月新番",
+      "type": "0"
+    },
+    {
+      "cover": "http://x-img.hdslb.net/group1/M00/98/7E/oYYBAFaV0zSAdUhyAAChgFrpbZM069.jpg",
+      "index": "10",
+      "orderType": 0,
+      "tag_id": "112",
+      "tag_name": "16年一月新番",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/79d7f26a1a5c9616c0566582c76490e2.jpg",
+      "index": "11",
+      "orderType": 0,
+      "tag_id": "108",
+      "tag_name": "15年十月新番",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/2bbcf5ec1634669a24399f6d659b95ac.jpg",
+      "index": "12",
+      "orderType": 0,
+      "tag_id": "92",
+      "tag_name": "15年七月新番",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/8580a06cfb1935512920f5ebbb84019c.jpg",
+      "index": "40",
+      "orderType": 0,
+      "tag_id": "114",
+      "tag_name": "周刊上榜番剧",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/f7a16e4a28fe524ceddfe0860b52d057.jpg",
+      "index": "41",
+      "orderType": 0,
+      "tag_id": "117",
+      "tag_name": "这本轻小说真厉害",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/group1/M00/22/F2/oYYBAFbL1PqATG2EAAGb0CAqMwY157.jpg",
+      "index": "42",
+      "orderType": 0,
+      "tag_id": "128",
+      "tag_name": "名作之壁",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/2ca8d71fae6a6037fb2e3a3178046161.png",
+      "index": "50",
+      "orderType": 0,
+      "tag_id": "100",
+      "tag_name": "神ED",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/u_user/6ddcf10d8b9bdfd0fbcbadc1d8b63b75.png",
+      "index": "51",
+      "orderType": 0,
+      "tag_id": "99",
+      "tag_name": "神OP",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/group1/M00/C4/61/oYYBAFad4h6AaM06AABlbDbIgyw949.jpg",
+      "index": "52",
+      "orderType": 0,
+      "tag_id": "123",
+      "tag_name": "燃烧经费",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/55ecf3cb9b015ed72f23ecc4588ec434.png",
+      "index": "54",
+      "orderType": 0,
+      "tag_id": "81",
+      "tag_name": "萌萌哒",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/87f8bbc5867b85788aec3e69eaa59dc8.png",
+      "index": "55",
+      "orderType": 0,
+      "tag_id": "70",
+      "tag_name": "深井冰",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/7056112bf5c62e89b29750aae08851df.jpg",
+      "index": "60",
+      "orderType": 0,
+      "tag_id": "104",
+      "tag_name": "泪腺崩坏",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/672da872a12b51fd77afd3e31fa2b029.png",
+      "index": "60",
+      "orderType": 0,
+      "tag_id": "20",
+      "tag_name": "燃",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/d3d4a113d8bac7a9010975498c9dc3aa.jpg",
+      "index": "70",
+      "orderType": 0,
+      "tag_id": "105",
+      "tag_name": "机器人",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/0126ef91d72d429d32cac6d8cc3d2b55.png",
+      "index": "70",
+      "orderType": 0,
+      "tag_id": "5",
+      "tag_name": "后宫",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/e8293fc2767a418fb9fca7b6f6211fc3.png",
+      "index": "80",
+      "orderType": 0,
+      "tag_id": "110",
+      "tag_name": "恋爱",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/u_user/52c4ed93fc1275814bfc384b15c7944e.jpg",
+      "index": "80",
+      "orderType": 0,
+      "tag_id": "82",
+      "tag_name": "基腐",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/u_user/d2ed702e856d0b1226262a9ffac8cf80.png",
+      "index": "90",
+      "orderType": 0,
+      "tag_id": "6",
+      "tag_name": "百合",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/group1/M00/C4/B7/oYYBAFad8LGAEVVUAADQTBnG0mM504.jpg",
+      "index": "95",
+      "orderType": 0,
+      "tag_id": "125",
+      "tag_name": "蓝♂孩纸",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/group1/M00/0C/8A/oYYBAFaonyuANiaxAACbQgD7-OM493.jpg",
+      "index": "100",
+      "orderType": 0,
+      "tag_id": "115",
+      "tag_name": "乙女向",
+      "type": "0"
+    },
+    {
+      "cover": "http://i2.hdslb.com/u_user/c2bceeb337a84e802392b2067a09d8ba.png",
+      "index": "100",
+      "orderType": 0,
+      "tag_id": "71",
+      "tag_name": "科幻",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/9fc0e61cdba27a26ea969bac28d39606.png",
+      "index": "110",
+      "orderType": 0,
+      "tag_id": "57",
+      "tag_name": "奇幻",
+      "type": "0"
+    },
+    {
+      "cover": "http://i0.hdslb.com/group1/M00/C4/94/oYYBAFad6qeAZ0gEAAGPU2dp4pw052.jpg",
+      "index": "115",
+      "orderType": 0,
+      "tag_id": "124",
+      "tag_name": "推理",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/e8da027adc0a02f3f52a9c8ca45fa7cf.png",
+      "index": "119",
+      "orderType": 0,
+      "tag_id": "72",
+      "tag_name": "跟着节奏一起来",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/b6ed574c94b249d990369d49eebb401b.jpg",
+      "index": "120",
+      "orderType": 0,
+      "tag_id": "93",
+      "tag_name": "校园",
+      "type": "0"
+    },
+    {
+      "cover": "http://i1.hdslb.com/u_user/35e040f2aa4288e37390bb1e7592b619.jpg",
+      "index": "125",
+      "orderType": 0,
+      "tag_id": "121",
+      "tag_name": "爱抖露",
+      "type": "0"
+    }
+  ],
+  "total": 50
+}

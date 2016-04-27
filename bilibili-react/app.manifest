@@ -11,8 +11,9 @@ dist/images/launch_bg.jpg
 dist/images/launch_bg.png
 dist/images/launch_splash.png
 dist/images/launcher.jpg
-dist/scripts/app-7e2860dce2.js
-dist/styles/main-0ad08725a3.css
+dist/images/pull_refresh_img.png
+dist/scripts/app-c0d1a79cb0.js
+dist/styles/main-e9ec4f5f74.css
 dist/images/icons/btn_icon_left_arrow.png
 dist/images/icons/btn_icon_right_arrow.png
 dist/images/icons/home_bangumi_icon_1.png
@@ -42,6 +43,9 @@ dist/images/icons/home_region_icon_6.png
 dist/images/icons/home_region_icon_7.png
 dist/images/icons/home_region_icon_8.png
 dist/images/icons/home_region_icon_9.png
+dist/images/icons/utils_icon_arrow_down.png
+dist/images/icons/utils_icon_refresh_circle.png
+dist/images/icons/utils_icon_refresh_done.png
 
 NETWORK:
 *
@@ -53,4 +57,4 @@ index.html index-offline.html
 SETTINGS:
 prefer-online
 
-# hash: 36a6e562ba84d9cd61df640e56b9c0b22ca836557cf5745c22e0fb1b1b0a1f5d
+# hash: 4935ac9657e7ed02a9fa554c68c40b40d6c569163378eeb64cfb896b7a907687
