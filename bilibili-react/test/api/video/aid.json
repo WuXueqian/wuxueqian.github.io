@@ -1,0 +1,37 @@
+{
+  "allow_bp": 0,
+  "allow_download": 1,
+  "allow_feed": 0,
+  "arctype": "Original",
+  "author": "windleavez",
+  "coins": "10458",
+  "created": 1464668324,
+  "created_at": "2016-05-31 12:18",
+  "credit": "0",
+  "description": "这部4个小时的纪录片，涵盖了从《魔兽争霸3》到《守望先锋》14年来多达十余部作品的CG 创作秘闻。不仅有暴雪制片部门成员的详尽讲解，更有 CG 影片、脚本和 3D 预览动画的全面对比，堪称迄今最完整的暴雪 CG 揭秘。",
+  "face": "http://i1.hdslb.com/bfs/face/e4028eb64ecf3f98597ec98d9668271e44ccf12a.jpg",
+  "favorites": "62483",
+  "instant_server": "chat.bilibili.com",
+  "list": {
+    "0": {
+      "cid": 7822862,
+      "has_alias": false,
+      "page": 1,
+      "part": "",
+      "type": "vupload",
+      "vid": "vupload_7822862"
+    }
+  },
+  "mid": "2371772",
+  "pages": 1,
+  "pic": "http://i1.hdslb.com/bfs/archive/886a99affa26404e378d55983c4ee03b90c678c6.jpg",
+  "play": "630141",
+  "review": "1257",
+  "spid": null,
+  "src": "c",
+  "tag": "暴雪影业荣誉出品",
+  "tid": 65,
+  "title": "【十年磨剑九年拍片】原来暴雪是这样创作CG的（4小时全纪录）",
+  "typename": "网游·电竞",
+  "video_review": "11903"
+}

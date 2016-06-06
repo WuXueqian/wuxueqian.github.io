@@ -1,0 +1,1196 @@
+{
+  "code": 0,
+  "message": "success",
+  "result": {
+    "categories": [
+      {
+        "category": {
+          "cover": "http://i1.hdslb.com/u_user/55ecf3cb9b015ed72f23ecc4588ec434.png",
+          "orderType": 0,
+          "tag_id": "81",
+          "tag_name": "萌萌哒",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "1760",
+              "bangumi_title": "干物妹！小埋",
+              "cover": "http://i0.hdslb.com/u_user/5768e69bf3067e4324fcc7b4a3deae79.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2946335",
+                "cover": "http://i2.hdslb.com/video/f7/f7138545e58218c7a023d153635b011c.jpg",
+                "danmaku": "4610386",
+                "episode_id": "69705",
+                "index": "12",
+                "index_title": "小埋与大家",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-09-24 03:14:00.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2580",
+              "season_title": "TV版",
+              "spid": "42511",
+              "title": "干物妹！小埋",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1726",
+              "bangumi_title": "狐妖小红娘",
+              "cover": "http://i0.hdslb.com/sp/95/951cf095bc01d63087d9b655446e48a4.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "4368096",
+                "cover": "http://i0.hdslb.com/bfs/archive/c242b1e1f1d7cc91d426e0952b3b293130ddfad3.jpg",
+                "danmaku": "7159182",
+                "episode_id": "86113",
+                "index": "27",
+                "index_title": "狐妖小红娘 27 传说狐妖红红现身！本集有惊喜！",
+                "page": "1",
+                "up": {},
+                "update_time": "2016-04-15 10:43:46.0"
+              },
+              "newest_ep_index": "27",
+              "season_id": "2543",
+              "season_title": "狐妖小红娘",
+              "spid": "52749",
+              "title": "狐妖小红娘",
+              "total_count": "30"
+            },
+            {
+              "bangumi_id": "120",
+              "bangumi_title": "请问您今天要来点兔子吗？",
+              "cover": "http://i2.hdslb.com/u_user/7bdedc0c7a0357ceaf869bf62ac2967c.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3456601",
+                "cover": "http://i2.hdslb.com/video/e4/e4c6e924627ea7abdedbb3853f027127.jpg",
+                "danmaku": "5487720",
+                "episode_id": "82138",
+                "index": "12",
+                "index_title": "宝物就是你决定性的瞬间",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-12-27 01:01:00.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2762",
+              "season_title": "第二季",
+              "spid": "56747",
+              "title": "请问您今天要来点兔子吗？？",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1770",
+              "bangumi_title": "学园孤岛",
+              "cover": "http://i1.hdslb.com/u_user/8fcbd2a0b82564d70f7b42317758c455.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2950250",
+                "cover": "http://i1.hdslb.com/video/30/30b91ce5f4c559915a39c59313dacad9.jpg",
+                "danmaku": "4620464",
+                "episode_id": "69710",
+                "index": "12",
+                "index_title": "毕业",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-09-25 02:00:00.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2592",
+              "season_title": "学园孤岛",
+              "spid": "46671",
+              "title": "学园孤岛",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1992",
+              "bangumi_title": "房东妹子青春期",
+              "cover": "http://i2.hdslb.com/u_user/806ec79e7e48a3ed0c744c2931fe9ea7.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "4203181",
+                "cover": "http://i0.hdslb.com/bfs/archive/2897f51e24c9fbc810b67166fd017a1e030ab2f4.jpg",
+                "danmaku": "6792199",
+                "episode_id": "85504",
+                "index": "12",
+                "index_title": "房东妹子果然……！",
+                "page": "1",
+                "up": {},
+                "update_time": "2016-03-27 22:00:02.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "3116",
+              "season_title": "房东妹子青春期！",
+              "spid": "61451",
+              "title": "房东妹子青春期！",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "189",
+              "bangumi_title": "银仙",
+              "cover": "http://i2.hdslb.com/sp/80/80fa0d6a6cf67f7d9b1abcb01ef5c586.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1819883",
+                "cover": "http://i1.hdslb.com/video/0d/0de8bb28f30fe3b465bca8d6c30a4460.jpg",
+                "danmaku": "2796635",
+                "episode_id": "27873",
+                "index": "12",
+                "index_title": "DESTINY！",
+                "page": "1",
+                "up": {},
+                "update_time": "2014-12-22 01:05:06.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "297",
+              "season_title": "银仙",
+              "spid": "29554",
+              "title": "银仙",
+              "total_count": "12"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i2.hdslb.com/u_user/c44d0e12ef919452e5a13fa3c4f500a8.png",
+          "orderType": 0,
+          "tag_id": "89",
+          "tag_name": "美国",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "215",
+              "bangumi_title": "RWBY",
+              "cover": "http://i2.hdslb.com/sp/a4/a4cdd73647d9fdcae14b1bc15c967a29.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "827225",
+                "cover": "http://i1.hdslb.com/u_f/5b0b918e084310985ddb02a61e623177.jpg",
+                "danmaku": "1202921",
+                "episode_id": "6412",
+                "index": "16",
+                "index_title": "Black and White",
+                "page": "1",
+                "up": {},
+                "update_time": "2013-11-08 19:06:31.0"
+              },
+              "newest_ep_index": "16",
+              "season_id": "333",
+              "season_title": "第一季",
+              "spid": "9199",
+              "title": "RWBY",
+              "total_count": "16"
+            },
+            {
+              "bangumi_id": "1482",
+              "bangumi_title": "南方公园",
+              "cover": "http://i1.hdslb.com/sp/56/56e503b56c08f90c5d77f380ddbf9f92.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2010156",
+                "cover": "http://i2.hdslb.com/video/61/61c4f6e46d90f961a98ee4ba4753b597.jpg",
+                "danmaku": "3107725",
+                "episode_id": "47492",
+                "index": "13",
+                "index_title": "P13",
+                "page": "13",
+                "up": {},
+                "update_time": "2015-02-16 23:25:52.0"
+              },
+              "newest_ep_index": "第2季",
+              "season_id": "2172",
+              "season_title": "第一季",
+              "spid": "4406",
+              "title": "南方公园 第一季",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1620",
+              "bangumi_title": "辛普森一家",
+              "cover": "http://i0.hdslb.com/sp/42/421f54b19783e30160b8fdf8ff15d899.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "88802",
+                "cover": "http://i0.hdslb.com/user/713/71310/13044322I-3D8.jpg",
+                "danmaku": "148330",
+                "episode_id": "54960",
+                "index": "13",
+                "index_title": "第13集",
+                "page": "13",
+                "up": {},
+                "update_time": "2011-05-03 22:17:53.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "2363",
+              "season_title": "第一季",
+              "spid": "16472",
+              "title": "辛普森一家 第一季",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1810",
+              "bangumi_title": "We Bare Bears 咱们裸熊",
+              "cover": "http://i1.hdslb.com/sp/55/55e592da96253b062b875cc1fb351b8d.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3261915",
+                "cover": "http://i1.hdslb.com/video/46/469b882eb5e04171a89d2e77b76a04b7.jpg",
+                "danmaku": "5148660",
+                "episode_id": "79208",
+                "index": "25",
+                "index_title": "Hibernation",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-11-22 12:36:15.0"
+              },
+              "newest_ep_index": "25",
+              "season_id": "2650",
+              "season_title": "第一季",
+              "spid": "55177",
+              "title": "We Bare Bears 咱们裸熊 第一季",
+              "total_count": "25"
+            },
+            {
+              "bangumi_id": "1975",
+              "bangumi_title": "马男波杰克",
+              "cover": "http://i2.hdslb.com/u_user/84c8bce443fef4e130add874566fd3f7.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3298508",
+                "cover": "http://i2.hdslb.com/video/86/8618f468acaa1685d80134c4bc4f7ab7.jpg",
+                "danmaku": "5213034",
+                "episode_id": "80342",
+                "index": "12",
+                "index_title": "12",
+                "page": "12",
+                "up": {},
+                "update_time": "2015-11-29 02:52:14.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "3083",
+              "season_title": "第一季",
+              "spid": "0",
+              "title": "马男波杰克",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "227",
+              "bangumi_title": "猫和老鼠",
+              "cover": "http://i2.hdslb.com/sp/c5/c5a402769d87d7d98501e4e295e38d8b.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1384889",
+                "cover": "http://i0.hdslb.com/video/0d/0deff25081466473f351fbc7f88c619a.jpg",
+                "danmaku": "2091053",
+                "episode_id": "6627",
+                "index": "26",
+                "index_title": "Curse Case Scenario / Say Cheese",
+                "page": "1",
+                "up": {},
+                "update_time": "2014-08-07 15:47:43.0"
+              },
+              "newest_ep_index": "26",
+              "season_id": "356",
+              "season_title": "2014版",
+              "spid": "22190",
+              "title": "猫和老鼠 2014版",
+              "total_count": "26"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i2.hdslb.com/u_user/4777b81d798a4ef7db1c4c872a119809.jpg",
+          "orderType": 0,
+          "tag_id": "122",
+          "tag_name": "马猴烧酒",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "1722",
+              "bangumi_title": "魔法少女小圆",
+              "cover": "http://i0.hdslb.com/sp/39/3967775e9ced6d2277ad78c59a15978c.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1358885",
+                "cover": "http://i2.hdslb.com/video/0f/0f327d8b08a098678aa0a1919b5bae1c.jpg",
+                "danmaku": "2054637",
+                "episode_id": "63481",
+                "index": "12",
+                "index_title": "我最好的朋友",
+                "page": "12",
+                "up": {},
+                "update_time": "2014-08-01 19:15:22.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2539",
+              "season_title": "魔法少女小圆",
+              "spid": "380",
+              "title": "魔法少女小圆",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1756",
+              "bangumi_title": "魔法少女☆伊莉雅",
+              "cover": "http://i2.hdslb.com/u_user/33f314bbcd65f5053334249e8f3d5106.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2954192",
+                "cover": "http://i2.hdslb.com/video/29/29e2ba20d87edd9373c74a2b30d47ce3.jpg",
+                "danmaku": "4627541",
+                "episode_id": "69724",
+                "index": "10",
+                "index_title": "在世界的角落呼喊你的名字",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-09-26 02:10:00.0"
+              },
+              "newest_ep_index": "10",
+              "season_id": "2575",
+              "season_title": "第三季",
+              "spid": "50381",
+              "title": "魔法少女☆伊莉雅 2WEI HERZ!",
+              "total_count": "10"
+            },
+            {
+              "bangumi_id": "1058",
+              "bangumi_title": "魔法少女奈叶",
+              "cover": "http://i0.hdslb.com/sp/92/924709f51f034c3806a80e55a9ce2b19.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2457758",
+                "cover": "http://i0.hdslb.com/video/0b/0b2690cc950e288f9aa15b2bd7be894a.jpg",
+                "danmaku": "3849103",
+                "episode_id": "63579",
+                "index": "12",
+                "index_title": "决胜的意义",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-06-19 23:00:00.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "1538",
+              "season_title": "第四季",
+              "spid": "46457",
+              "title": "魔法少女奈叶ViVid",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1542",
+              "bangumi_title": "魔卡少女樱",
+              "cover": "http://i0.hdslb.com/sp/81/81d5f982f330559e2e56591492b501af.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "65477",
+                "cover": "http://i0.hdslb.com/user/1050/105008/12bA2523-G25.jpg",
+                "danmaku": "965933",
+                "episode_id": "50733",
+                "index": "2",
+                "index_title": "魔卡少女樱剧场版-香港之旅",
+                "page": "1",
+                "up": {},
+                "update_time": "2011-02-26 00:48:43.0"
+              },
+              "newest_ep_index": "2",
+              "season_id": "2270",
+              "season_title": "剧场版",
+              "spid": "5330",
+              "title": "魔卡少女樱",
+              "total_count": "2"
+            },
+            {
+              "bangumi_id": "724",
+              "bangumi_title": "秀逗魔导士",
+              "cover": "http://i0.hdslb.com/sp/78/78466fef775061df39f567c6927ad871.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "58222",
+                "cover": "http://i1.hdslb.com/userup/85195/12a0V962-G15.jpg",
+                "danmaku": "97279",
+                "episode_id": "19861",
+                "index": "26",
+                "index_title": "合集 秀逗魔导士（魔剑美神）",
+                "page": "26",
+                "up": {},
+                "update_time": "2011-02-07 21:56:02.0"
+              },
+              "newest_ep_index": "26",
+              "season_id": "1112",
+              "season_title": "第一部",
+              "spid": "8560",
+              "title": "秀逗魔导士 第一部",
+              "total_count": "26"
+            },
+            {
+              "bangumi_id": "919",
+              "bangumi_title": "扑杀天使",
+              "cover": "http://i2.hdslb.com/sp/38/38e3c73e83db26890a492747d42e556b.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "4049",
+                "cover": "http://i2.hdslb.com/userup/2914/12D503c7-X32.jpg",
+                "danmaku": "1108",
+                "episode_id": "35838",
+                "index": "7-8",
+                "index_title": "扎克罗/永别了，多库罗",
+                "page": "5",
+                "up": {},
+                "update_time": "2010-03-13 19:41:34.0"
+              },
+              "newest_ep_index": "7-8",
+              "season_id": "1368",
+              "season_title": "第一季",
+              "spid": "6608",
+              "title": "扑杀天使 第一季",
+              "total_count": "5"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i0.hdslb.com/u_user/11d993a42993fed79b719d37e72bd8b6.jpg",
+          "orderType": 0,
+          "tag_id": "103",
+          "tag_name": "头脑战",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "775",
+              "bangumi_title": "CODE GEASS 反叛的鲁鲁修",
+              "cover": "http://i0.hdslb.com/sp/16/16e92bc379771df6fe7c6a69ffb46244.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "391459",
+                "cover": "http://i0.hdslb.com/u_f/0e2f199da2fc2eedd71f95a1e90a85ac.jpg",
+                "danmaku": "600842",
+                "episode_id": "21520",
+                "index": "25",
+                "index_title": "Zero",
+                "page": "25",
+                "up": {},
+                "update_time": "2012-11-10 13:58:37.0"
+              },
+              "newest_ep_index": "25",
+              "season_id": "1183",
+              "season_title": "第一季",
+              "spid": "398",
+              "title": "Code Geass 反叛的鲁路修",
+              "total_count": "25"
+            },
+            {
+              "bangumi_id": "787",
+              "bangumi_title": "超智游戏",
+              "cover": "http://i2.hdslb.com/sp/ba/ba1baf41e3db280c00991aada30cf300.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "98458",
+                "cover": "http://i1.hdslb.com/u_user/0b4a1155815d0fd502d31d2cab1ee7a5.jpg",
+                "danmaku": "2380601",
+                "episode_id": "21859",
+                "index": "25",
+                "index_title": "胜利的前方...",
+                "page": "25",
+                "up": {},
+                "update_time": "2011-06-02 22:56:13.0"
+              },
+              "newest_ep_index": "25",
+              "season_id": "1205",
+              "season_title": "TV",
+              "spid": "19529",
+              "title": "超智游戏",
+              "total_count": "25"
+            },
+            {
+              "bangumi_id": "1824",
+              "bangumi_title": "东之伊甸",
+              "cover": "http://i2.hdslb.com/u_user/b173bf654eecb13a328fe279bbe37fe7.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2514231",
+                "cover": "http://i0.hdslb.com/video/54/54738326896ae6e448a3f4c4855f2b4b.jpg",
+                "danmaku": "3928004",
+                "episode_id": "65576",
+                "index": "11",
+                "index_title": "仍旧延续之东",
+                "page": "11",
+                "up": {},
+                "update_time": "2015-07-02 11:53:38.0"
+              },
+              "newest_ep_index": "11",
+              "season_id": "2674",
+              "season_title": "TV版",
+              "spid": "50075",
+              "title": "东之伊甸",
+              "total_count": "11"
+            },
+            {
+              "bangumi_id": "548",
+              "bangumi_title": "[C]THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+              "cover": "http://i2.hdslb.com/sp/1f/1f73e7877c453f95fe28961edab42da0.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "262510",
+                "cover": "http://i2.hdslb.com/user/61/6196/13088788990ef1b88e9848571a.gif",
+                "danmaku": "177885",
+                "episode_id": "15502",
+                "index": "11",
+                "index_title": "Control 未来",
+                "page": "11",
+                "up": {},
+                "update_time": "2011-06-24 09:28:19.0"
+              },
+              "newest_ep_index": "11",
+              "season_id": "863",
+              "season_title": "TV版",
+              "spid": "4651",
+              "title": "[C]THE MONEY OF SOUL AND POSSIBILITY CONTROL",
+              "total_count": "11"
+            },
+            {
+              "bangumi_id": "583",
+              "bangumi_title": "逆境无赖开司",
+              "cover": "http://i0.hdslb.com/sp/50/50c0664022d121ecde80a5826d7e63f7.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "28643",
+                "cover": "http://i2.hdslb.com/u_f/aec679a319a39366b55cff3c071fafe5.jpg",
+                "danmaku": "575769",
+                "episode_id": "16519",
+                "index": "26",
+                "index_title": "残光",
+                "page": "26",
+                "up": {},
+                "update_time": "2010-10-01 21:47:10.0"
+              },
+              "newest_ep_index": "26",
+              "season_id": "917",
+              "season_title": "第一季",
+              "spid": "8870",
+              "title": "赌博默示录",
+              "total_count": "26"
+            },
+            {
+              "bangumi_id": "1066",
+              "bangumi_title": "亚尔斯兰战记",
+              "cover": "http://i2.hdslb.com/sp/b1/b17886edb421cf1df9b274c7ff44c149.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2966086",
+                "cover": "http://i2.hdslb.com/video/e4/e400fa25245b0e4ce8130eb61689be9b.jpg",
+                "danmaku": "4644968",
+                "episode_id": "70001",
+                "index": "25",
+                "index_title": "汗血公路",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-09-27 22:00:00.0"
+              },
+              "newest_ep_index": "25",
+              "season_id": "1551",
+              "season_title": "亚尔斯兰战记",
+              "spid": "46465",
+              "title": "亚尔斯兰战记",
+              "total_count": "25"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i2.hdslb.com/u_user/f7a16e4a28fe524ceddfe0860b52d057.jpg",
+          "orderType": 0,
+          "tag_id": "117",
+          "tag_name": "这本轻小说真厉害",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "1031",
+              "bangumi_title": "无头骑士异闻录",
+              "cover": "http://i1.hdslb.com/u_user/ad5e9b6df14369f21694528f1b3e813d.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2959933",
+                "cover": "http://i0.hdslb.com/video/43/435f4073fddd8706a4a608085db7e36c.jpg",
+                "danmaku": "4635985",
+                "episode_id": "69728",
+                "index": "12",
+                "index_title": "一行知一行",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-09-26 23:30:00.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2595",
+              "season_title": "x2 转",
+              "spid": "53082",
+              "title": "无头骑士异闻录 x2 转",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1825",
+              "bangumi_title": "境界线上的地平线 ",
+              "cover": "http://i2.hdslb.com/sp/32/32984f345c3168074ecabade6a7044a6.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2696706",
+                "cover": "http://i2.hdslb.com/video/65/654a6c6fea98c270a8d30cfd44cd88af.jpg",
+                "danmaku": "4210749",
+                "episode_id": "65619",
+                "index": "13",
+                "index_title": "境界线上的列队者们",
+                "page": "13",
+                "up": {},
+                "update_time": "2015-08-07 14:51:59.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "2676",
+              "season_title": "第一季",
+              "spid": "55537",
+              "title": "境界线上的地平线",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1060",
+              "bangumi_title": "我的青春恋爱物语果然有问题",
+              "cover": "http://i1.hdslb.com/sp/44/44f9412d4cc36013b3a6d9762ef2882d.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2483890",
+                "cover": "http://i2.hdslb.com/video/a8/a88c0fa023598763bbf1ff155718703f.jpg",
+                "danmaku": "3889119",
+                "episode_id": "63721",
+                "index": "13",
+                "index_title": "春天，在飘零堆叠的雪之下结一而成，抽枝发芽。",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-06-26 10:00:00.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "1540",
+              "season_title": "第二季",
+              "spid": "46791",
+              "title": "我的青春恋爱物语果然有问题 续",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1037",
+              "bangumi_title": "路人女主的养成方法",
+              "cover": "http://i1.hdslb.com/sp/65/65c00ad10a6fa4bdbb8f6677b8cd77df.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2148388",
+                "cover": "http://i2.hdslb.com/video/31/31612fe78de876a7cc2f0096e32a19ec.jpg",
+                "danmaku": "3338049",
+                "episode_id": "28637",
+                "index": "12",
+                "index_title": "波澜和动荡的日常结局",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-03-27 01:50:13.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "1512",
+              "season_title": "路人女主的养成方法",
+              "spid": "34946",
+              "title": "路人女主的养成方法",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1816",
+              "bangumi_title": "我的妹妹不可能那么可爱",
+              "cover": "http://i2.hdslb.com/sp/aa/aa0f0e13a5894c1bdc20ecc01788b9ba.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1358900",
+                "cover": "http://i1.hdslb.com/video/e4/e404f9a4508dd3b7cb4adba7e095a07c.jpg",
+                "danmaku": "2054826",
+                "episode_id": "65144",
+                "index": "16",
+                "index_title": "我的妹妹哪有这样就最终回",
+                "page": "16",
+                "up": {},
+                "update_time": "2014-08-01 19:18:02.0"
+              },
+              "newest_ep_index": "16",
+              "season_id": "2660",
+              "season_title": "第一季",
+              "spid": "48165",
+              "title": "我的妹妹不可能那么可爱 第一季",
+              "total_count": "16"
+            },
+            {
+              "bangumi_id": "1376",
+              "bangumi_title": "全金属狂潮",
+              "cover": "http://i2.hdslb.com/sp/b5/b51b85a7e34e4de199937d46ed85b18d.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "11127",
+                "cover": "http://i2.hdslb.com/u_f/7fe59704a5182447c47d2b57cfb9efa0.jpg",
+                "danmaku": "581610",
+                "episode_id": "43428",
+                "index": "12",
+                "index_title": "第五堂课的危险区域",
+                "page": "12",
+                "up": {},
+                "update_time": "2010-06-26 09:57:21.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2016",
+              "season_title": "第二季",
+              "spid": "17624",
+              "title": "全金属狂潮 校园篇",
+              "total_count": "12"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i0.hdslb.com/group1/M00/22/F2/oYYBAFbL1PqATG2EAAGb0CAqMwY157.jpg",
+          "orderType": 0,
+          "tag_id": "128",
+          "tag_name": "名作之壁",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "2122",
+              "bangumi_title": "Infinite Stratos",
+              "cover": "http://i0.hdslb.com/bfs/bangumi/b0b1b1a6a0bbf325b946307db78eb600c2f123d2.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "4168796",
+                "cover": "http://i0.hdslb.com/bfs/archive/221aea2598fa0e7bc5aa1367738cdc1c3c81773f.jpg",
+                "danmaku": "6733708",
+                "episode_id": "85433",
+                "index": "12",
+                "index_title": "12 展翅的少女们",
+                "page": "12",
+                "up": {},
+                "update_time": "2016-03-23 17:45:22.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "3489",
+              "season_title": "第二季",
+              "spid": "0",
+              "title": "Infinite Stratos",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1967",
+              "bangumi_title": "LOVELIVE!",
+              "cover": "http://i2.hdslb.com/u_user/cb6f7ec35c5293ed07c9e6c570627c29.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3300397",
+                "cover": "http://i0.hdslb.com/video/0f/0f9c97b96d0d6b3eb06bc82d70fe86ae.jpg",
+                "danmaku": "5206648",
+                "episode_id": "79891",
+                "index": "13",
+                "index_title": "μ's Music Start!",
+                "page": "13",
+                "up": {},
+                "update_time": "2015-11-29 13:55:12.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "3068",
+              "season_title": "第一季",
+              "spid": "0",
+              "title": "Love Live!",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "254",
+              "bangumi_title": "某科学的超电磁炮",
+              "cover": "http://i1.hdslb.com/sp/b7/b7091f4d93531de0f812b4a6c493d110.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3934631",
+                "cover": "http://i0.hdslb.com/group1/M00/2A/F0/oYYBAFbNJzmASTstAADSIQ1_5Fo964.jpg",
+                "danmaku": "6647333",
+                "episode_id": "84363",
+                "index": "24",
+                "index_title": "亲爱的朋友",
+                "page": "24",
+                "up": {},
+                "update_time": "2016-02-24 11:35:28.0"
+              },
+              "newest_ep_index": "24",
+              "season_id": "425",
+              "season_title": "第一季",
+              "spid": "331",
+              "title": "某科学的超电磁炮",
+              "total_count": "24"
+            },
+            {
+              "bangumi_id": "1722",
+              "bangumi_title": "魔法少女小圆",
+              "cover": "http://i0.hdslb.com/sp/39/3967775e9ced6d2277ad78c59a15978c.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1358885",
+                "cover": "http://i2.hdslb.com/video/0f/0f327d8b08a098678aa0a1919b5bae1c.jpg",
+                "danmaku": "2054637",
+                "episode_id": "63481",
+                "index": "12",
+                "index_title": "我最好的朋友",
+                "page": "12",
+                "up": {},
+                "update_time": "2014-08-01 19:15:22.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "2539",
+              "season_title": "魔法少女小圆",
+              "spid": "380",
+              "title": "魔法少女小圆",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "487",
+              "bangumi_title": "Fate/Zero",
+              "cover": "http://i2.hdslb.com/u_user/e7fdb8b000ccf0ba1b28eac3348da183.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1608918",
+                "cover": "http://i0.hdslb.com/u_user/df2642df5ca3eb1acc54fe81c602e201.jpg",
+                "danmaku": "2445785",
+                "episode_id": "29931",
+                "index": "13",
+                "index_title": "禁忌的狂宴",
+                "page": "13",
+                "up": {},
+                "update_time": "2014-10-10 12:36:20.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "1650",
+              "season_title": "第一季",
+              "spid": "158",
+              "title": "Fate/Zero 第一季",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "528",
+              "bangumi_title": "我们仍未知道那天所看见的花的名字。",
+              "cover": "http://i1.hdslb.com/sp/ce/ce73f2c8f5814fb11bade9c77949f1f7.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1358913",
+                "cover": "http://i2.hdslb.com/video/3a/3a382e81ef246ee2805cdf631ca3b38f.jpg",
+                "danmaku": "2055956",
+                "episode_id": "15024",
+                "index": "11",
+                "index_title": "那个夏天绽放的花",
+                "page": "11",
+                "up": {},
+                "update_time": "2014-08-01 19:20:14.0"
+              },
+              "newest_ep_index": "11",
+              "season_id": "835",
+              "season_title": "TV版",
+              "spid": "607",
+              "title": "我们仍未知道那天所看见的花的名字。",
+              "total_count": "11"
+            }
+          ],
+          "pages": "1"
+        }
+      },
+      {
+        "category": {
+          "cover": "http://i1.hdslb.com/u_user/35e040f2aa4288e37390bb1e7592b619.jpg",
+          "orderType": 0,
+          "tag_id": "121",
+          "tag_name": "爱抖露",
+          "type": "0"
+        },
+        "list": {
+          "count": "6",
+          "list": [
+            {
+              "bangumi_id": "1829",
+              "bangumi_title": "偶像大师",
+              "cover": "http://i1.hdslb.com/u_user/f9a93ff2eb8e507eec941d23472e511f.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3361588",
+                "cover": "http://i2.hdslb.com/video/93/93a0640fdd229a6eda04e384f87a16c7.jpg",
+                "danmaku": "5334486",
+                "episode_id": "86157",
+                "index": "26",
+                "index_title": "名为765的故事",
+                "page": "1",
+                "up": {},
+                "update_time": "2016-04-15 14:09:18.0"
+              },
+              "newest_ep_index": "26",
+              "season_id": "2684",
+              "season_title": "TV版",
+              "spid": "48179",
+              "title": "偶像大师",
+              "total_count": "26"
+            },
+            {
+              "bangumi_id": "1034",
+              "bangumi_title": "偶像大师 灰姑娘女孩",
+              "cover": "http://i1.hdslb.com/u_user/787b2c7a061979d15f75aef6b0f87616.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2206528",
+                "cover": "http://i1.hdslb.com/video/ac/aca3e90c6cf1a1adc664cb91a9f54be7.jpg",
+                "danmaku": "3426847",
+                "episode_id": "29102",
+                "index": "13",
+                "index_title": "到了成为灰姑娘的时刻了！",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-04-11 00:30:13.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "1509",
+              "season_title": "第一季",
+              "spid": "30789",
+              "title": "偶像大师 灰姑娘女孩",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "2148",
+              "bangumi_title": "超时空要塞 F",
+              "cover": "http://i1.hdslb.com/sp/a2/a22d0059f4cd683505b958cd89afc614.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "21091",
+                "cover": "http://i0.hdslb.com/u_f/b5315064bd7a1c9b7feaef196f4d9537.jpg",
+                "danmaku": "585387",
+                "episode_id": "35215",
+                "index": "25",
+                "index_title": "你的声音",
+                "page": "25",
+                "up": {},
+                "update_time": "2010-08-19 01:19:37.0"
+              },
+              "newest_ep_index": "25",
+              "season_id": "1189",
+              "season_title": "第三季",
+              "spid": "17691",
+              "title": "超时空要塞 Frontier",
+              "total_count": "25"
+            },
+            {
+              "bangumi_id": "146",
+              "bangumi_title": "超级索尼子",
+              "cover": "http://i1.hdslb.com/sp/48/48b7ea8a4b0bfc8416622edecbd2bdba.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "1026600",
+                "cover": "http://i0.hdslb.com/u_f/8f39c2d97672ca41d63e8978f3e3b26a.jpg",
+                "danmaku": "1485319",
+                "episode_id": "4937",
+                "index": "12",
+                "index_title": "我们在这里♪",
+                "page": "1",
+                "up": {},
+                "update_time": "2014-03-24 23:55:50.0"
+              },
+              "newest_ep_index": "12",
+              "season_id": "232",
+              "season_title": "超级索尼子",
+              "spid": "2442",
+              "title": "超级索尼子",
+              "total_count": "12"
+            },
+            {
+              "bangumi_id": "1076",
+              "bangumi_title": "歌之☆王子殿下 真爱1000",
+              "cover": "http://i1.hdslb.com/sp/a6/a602a3dda88f5bff4637af0dfd6ac331.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "2491311",
+                "cover": "http://i2.hdslb.com/video/d8/d843ed0e7e543c371afb44f64e5e6245.jpg",
+                "danmaku": "3902700",
+                "episode_id": "63733",
+                "index": "13",
+                "index_title": "真爱Revolutions",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-06-28 00:30:00.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "1563",
+              "season_title": "第三季",
+              "spid": "46580",
+              "title": "歌之☆王子殿下 真爱REVOLUTIONS",
+              "total_count": "13"
+            },
+            {
+              "bangumi_id": "1788",
+              "bangumi_title": "黑白小姐",
+              "cover": "http://i0.hdslb.com/u_user/ceae1c9ea3e8c381bac282acc24ec784.jpg",
+              "is_finish": "1",
+              "new_ep": {
+                "av_id": "3448952",
+                "cover": "http://i0.hdslb.com/video/43/4329c86b9cfe9f7afcdd9734b1b10096.jpg",
+                "danmaku": "5472146",
+                "episode_id": "82114",
+                "index": "13",
+                "index_title": "MONOCHROME3",
+                "page": "1",
+                "up": {},
+                "update_time": "2015-12-25 23:32:59.0"
+              },
+              "newest_ep_index": "13",
+              "season_id": "2791",
+              "season_title": "第三季",
+              "spid": "58033",
+              "title": "黑白小姐 第三季",
+              "total_count": "13"
+            }
+          ],
+          "pages": "1"
+        }
+      }
+    ],
+    "latestUpdate": {
+      "list": [
+        {
+          "cover": "http://i2.hdslb.com/bfs/archive/5e87b0d25bb221ec4f18083880a7aa0e69f2dc42.jpg",
+          "last_time": "1461580202",
+          "newest_ep_id": "86769",
+          "newest_ep_index": "4",
+          "season_id": "3493",
+          "title": "12岁。",
+          "total_count": "12",
+          "watchingCount": "1393"
+        },
+        {
+          "cover": "http://i1.hdslb.com/bfs/archive/04fd1e8a4a3ade18bef448820152a79ba43693c4.jpg",
+          "last_time": "1461550608",
+          "newest_ep_id": "86723",
+          "newest_ep_index": "4",
+          "season_id": "3530",
+          "title": "超时空要塞Δ",
+          "total_count": "13",
+          "watchingCount": "496"
+        },
+        {
+          "cover": "http://i2.hdslb.com/bfs/archive/e37e99a2ce91faad13d7b0c4adccda33ecad27be.jpg",
+          "last_time": "1461517502",
+          "newest_ep_id": "86722",
+          "newest_ep_index": "4",
+          "season_id": "3461",
+          "title": "Re：从零开始的异世界生活",
+          "total_count": "26",
+          "watchingCount": "13733"
+        },
+        {
+          "cover": "http://i1.hdslb.com/bfs/archive/bd80952fd5824e25588247c2dd9ff7db4b61486f.jpg",
+          "last_time": "1461513601",
+          "newest_ep_id": "86721",
+          "newest_ep_index": "3",
+          "season_id": "3452",
+          "title": "三者三叶",
+          "total_count": "12",
+          "watchingCount": "1004"
+        },
+        {
+          "cover": "http://i0.hdslb.com/bfs/archive/207ef5d4072fff00e79eb919be24a80d05a64922.jpg",
+          "last_time": "1461508201",
+          "newest_ep_id": "86720",
+          "newest_ep_index": "16",
+          "season_id": "3465",
+          "title": "Concrete Revolutio 超人幻想 第二季",
+          "total_count": "12",
+          "watchingCount": "959"
+        },
+        {
+          "cover": "http://i2.hdslb.com/bfs/archive/00cad3219daf4b8d5eb30ab05dd5f66f129964ce.jpg",
+          "last_time": "1461498902",
+          "newest_ep_id": "86719",
+          "newest_ep_index": "4",
+          "season_id": "3460",
+          "title": "面包带来和平！",
+          "total_count": "12",
+          "watchingCount": "124"
+        },
+        {
+          "cover": "http://i0.hdslb.com/bfs/archive/abd455a5e79f11195990ffb3ae56748c390a630b.jpg",
+          "last_time": "1461471283",
+          "newest_ep_id": "86718",
+          "newest_ep_index": "4",
+          "season_id": "3529",
+          "title": "火星异种 REVENGE",
+          "total_count": "13",
+          "watchingCount": "263"
+        },
+        {
+          "cover": "http://i2.hdslb.com/bfs/archive/358480a7e8264be1165d5b4155d5f830ee3916d1.jpg",
+          "last_time": "1461450602",
+          "newest_ep_id": "86715",
+          "newest_ep_index": "4",
+          "season_id": "3496",
+          "title": "机动战士敢达独角兽 RE:0096",
+          "total_count": "26",
+          "watchingCount": "415"
+        }
+      ],
+      "updateCount": "4"
+    },
+    "recommendCategory": [
+      {
+        "cover": "http://i0.hdslb.com/group1/M00/C4/B7/oYYBAFad8LGAEVVUAADQTBnG0mM504.jpg",
+        "tag_id": "125",
+        "tag_name": "蓝♂孩纸"
+      },
+      {
+        "cover": "http://i0.hdslb.com/u_user/d2ed702e856d0b1226262a9ffac8cf80.png",
+        "tag_id": "6",
+        "tag_name": "百合"
+      },
+      {
+        "cover": "http://i0.hdslb.com/group1/M00/C4/94/oYYBAFad6qeAZ0gEAAGPU2dp4pw052.jpg",
+        "tag_id": "124",
+        "tag_name": "推理"
+      },
+      {
+        "cover": "http://i2.hdslb.com/u_user/497c108a41c4e206aa3e4499d33c18ee.jpg",
+        "tag_id": "94",
+        "tag_name": "叶良辰"
+      },
+      {
+        "cover": "http://i2.hdslb.com/u_user/fb8b347ecdc9b6a3e3b8abe8b75e0f46.jpg",
+        "tag_id": "95",
+        "tag_name": "战斗"
+      },
+      {
+        "cover": "http://i2.hdslb.com/u_user/bd7f0ca9a12fb8b37600110e9d6ff725.png",
+        "tag_id": "90",
+        "tag_name": "国产"
+      }
+    ]
+  }
+}

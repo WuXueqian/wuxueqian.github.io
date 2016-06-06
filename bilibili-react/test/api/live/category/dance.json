@@ -1,0 +1,439 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": [{
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/5d35da6e93fbfb1a77ad6d1f1004b08413913f9a.jpg",
+      "mid": 11153765,
+      "name": "\u54d4\u54e9\u54d4\u54e9\u97f3\u4e50\u53f0"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/u_user\/2c065657b5254674e20a7eb46f2fb0ef.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u3010\u5b98\u65b9\u3011\u54d4\u54e9\u54d4\u54e9\u97f3\u4e50\u53f0",
+    "room_id": 23058,
+    "online": 7549
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/12156a3a2f014475c8bdd12d3778570f54587563.jpg",
+      "mid": 1740850,
+      "name": "\u6ee1\u6c49\u5168\u5e2d\u97f3\u4e50\u56e2\u961f"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/01399018e33ec09f7277162d25532089754d2372.jpg_160x100.jpg?05111849",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u3010\u6ee1\u6c49\u3011\u6c49\u5b50\u4eec\u7684\u65e5\u5e38",
+    "room_id": 55041,
+    "online": 5882
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/0339321c905ee1979bf6215441ca7ff60e0411ec.jpg",
+      "mid": 5559367,
+      "name": "KS-\u6708\u6b4c\u82b1\u821e"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/64abb98b66d3745dc3529e255c732ddb5d8d4048.jpg_160x100.jpg?05111849",
+      "height": 180,
+      "width": 320
+    },
+    "title": "KS\u5531\u6b4c\u73a9\u4e09\u56fd\u6740",
+    "room_id": 127074,
+    "online": 736
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/372025262d008db574ec75d6c1af89e2e391fd91.jpg",
+      "mid": 3334154,
+      "name": "-\u987e\u65f6\u7b19-"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/6e751bd5195c9af6886dbea7703e85eb230fd930.jpg_160x100.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5fa1\u59d0\u97f3\u5728\u5531\u6b4c\u3002",
+    "room_id": 82254,
+    "online": 428
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/39c9cc1c842f03b0887ee93be4f623f4f9ad7c01.jpg",
+      "mid": 1627957,
+      "name": "\u5e7d\u4e00Yui"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/0b7849aae5dff5feb10e82a108367b8e19b2976f.jpg_160x100.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5e7d\u4e00\u7684\u5f00\u8f66\u73b0\u573a",
+    "room_id": 126710,
+    "online": 131
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/23c2b45a4adba6281f59e4fba4654b2af41f6c40.jpg",
+      "mid": 15408901,
+      "name": "\u62a0\u811a\u7684\u8def\u4eba\u541b"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/e834f8d30b6cb16fccad56795cfba70f3fda1a7b.jpg_160x100.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8fd8\u662f\u770b\u6050\u6016\u7535\u5f71\u5427\u54b1",
+    "room_id": 56171,
+    "online": 25
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/8c4931ec9a15e0c974707ffb768e2f69ba4b3e81.jpg",
+      "mid": 3091804,
+      "name": "\u5076\u4ee5\u8d85\u795e"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/370c0b5d71229dfbfc4ceaa280dae91febd1235d.jpg_160x100.jpg?05111500",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u97f3\u4e50 \u5410\u69fd \u95f2\u804a \u6302\u673a \u4f5c\u4e1a",
+    "room_id": 28341,
+    "online": 21
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/ef1c7c7a6abd115b48cffdcf0bbc6bd059c31457.jpg",
+      "mid": 5876137,
+      "name": "\u5d29\u574f\u4e49\u4eba"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/group1\/M00\/A1\/98\/oYYBAFa8f-OAaGFnAACwUSSSILg745.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u3010\u58f0\u63a7\u3011\u4e0d\u82cf\u4e0d\u8981\u94b1\uff0c\u7981~",
+    "room_id": 17952,
+    "online": 13
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/ac88da31e7d8af2f90f2bb0404dfdbe25b9948de.gif",
+      "mid": 884841,
+      "name": "\u4e36Dusk"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/group1\/M00\/FA\/42\/oYYBAFbGFIqAawsLAAC_YT6pPdo851.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8be5\u76f4\u64ad\u95f4\u65e0\u540d",
+    "room_id": 53969,
+    "online": 13
+  }, {
+    "owner": {
+      "face": "http:\/\/static.hdslb.com\/images\/member\/noface.gif",
+      "mid": 4941252,
+      "name": "Mythqueen"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/5cb5394aac916436abf58520ae286b1e2a9dc14f.jpg_160x100.jpg?05111853",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5531\u6b4c\u5531\u6b4c",
+    "room_id": 98939,
+    "online": 12
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/cec8b4b4e01abb8e6002369a97947703e8573003.jpg",
+      "mid": 12445667,
+      "name": "\u590f\u5b63\u51c9\u98ce"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/955a83bcf1768cd0f712e4028730cb4636d4ec41.jpg_160x100.jpg?05111850",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u590f\u5b63\u51c9\u98ce\u7684\u76f4\u64ad\u95f4",
+    "room_id": 154148,
+    "online": 12
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/cefdbdf6a1526116afc9e92843d38afca927c993.jpg",
+      "mid": 545511,
+      "name": "\u30a2\u30ec\u30f3"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/57f4342dfd6ff7a4ac6d545d329399e90ced5a02.jpg_160x100.jpg?05111849",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u6211\u88ab\u6559\u4e3b\u6d17\u8111\u4e86\uff0c\u6211\u9009\u62e9\u5531\u9505",
+    "room_id": 10360,
+    "online": 11
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/84ffd3cd65b1b5670a731a27e46c8a70914e3f01.jpg",
+      "mid": 4151827,
+      "name": "\u9e92\u9e9f\u81c2\u65ad\u6389\u4e86\uff01"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/e6c11f0c2c96c4b6d6239bec5094c280984b83bc.jpg_160x100.jpg?05111856",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5531\u6b4c\u8dd1\u8c03\u52a0\u7834\u97f3\u3002\u3002",
+    "room_id": 94499,
+    "online": 11
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/86b4a5dc0f8211ab3ed59a33ee79d2d3b12a210b.jpg",
+      "mid": 14070596,
+      "name": "\u5343\u83ab\u4eca"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/8754cd44de9af12263ca82d1fe759788558ecafb.jpg_160x100.jpg?05111853",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8001\u53f8\u673a\u5b9e\u529b\u7ffb\u8f66",
+    "room_id": 136821,
+    "online": 11
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/372df708ec6bf7217ccfb5ffbc59aec71a5b99af.jpg",
+      "mid": 2173325,
+      "name": "\u963f\u6f6e"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/b5ddd65d73b9d7ad6bdb2964e89e8b64d81c8c71.jpg_160x100.jpg?04271859",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5531\u6b4c\u54af(\uff5e\uffe3\u25bd\uffe3)\uff5e*",
+    "room_id": 98872,
+    "online": 10
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/3a3fe7b9480a0a562e1b6939cf77a9efe7b3ddbf.jpg",
+      "mid": 3426197,
+      "name": "\u53cb\u5229\u5e0c"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/c46d4be8a50c266374a71ffc60064388ea4f95cf.jpg_160x100.jpg?05111855",
+      "height": 180,
+      "width": 320
+    },
+    "title": "LoveLive\u97f3\u4e50\u7535\u53f0\uff08\u6b22\u8fce\u6765\u70b9\u6b4c~\uff09",
+    "room_id": 142676,
+    "online": 10
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/d5cc68bd83a1f715bd4aa706bd39d27c22928c1c.jpg",
+      "mid": 11818838,
+      "name": "\u4e00\u4e2a\u795e\u4e5f\u6551\u4e0d\u4e86\u7684\u5b69\u7eb8"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/08b5252456f0b2f3e8e490cf4b37aa2bc99b5a20.jpg_160x100.jpg?05111848",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8682\u8681\u7259\u9ed1",
+    "room_id": 50629,
+    "online": 9
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/da5e29ccc60c59b4b8f59a5204135b760c87e6f3.jpg",
+      "mid": 11353273,
+      "name": "\u554a\u554a\u554a\u554a\u7693\u54e5"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/b0c96a9b43a7026f40508fea5d953c0608bbc676.jpg_160x100.jpg?05111855",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u65b0\u4e00\u4ee3\u7684\u6b4c\u201c\u57fa\u201d",
+    "room_id": 57774,
+    "online": 9
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/2e4cbc1385b24f5ac0ed32a6d7003abc7ebda4a8.jpg",
+      "mid": 3288223,
+      "name": "\u7231\u5373\u7f6a"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/41f6b1d2965c43b04651f10085808fc0dd503d03.jpg_160x100.jpg?05111849",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u65e9\u8d77\u7684up\u6709\u996d\u5403~xd",
+    "room_id": 82328,
+    "online": 8
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/4b395bde53ca4883cf61e7280208e33548d1a102.jpg",
+      "mid": 4898839,
+      "name": "sally\u5c0f\u7199"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/4a105b2dff7e887390795bb7bf1f635e98a2493f.jpg_160x100.jpg?05111848",
+      "height": 180,
+      "width": 320
+    },
+    "title": "sally\u9171\u53c8\u5f00\u59cb\u6298\u817e\u5934\u53d1\u4e86\uff5e",
+    "room_id": 101887,
+    "online": 8
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/02cfeaf391c51fbaa17cdca0aebe0db4880f797a.jpg",
+      "mid": 2544753,
+      "name": "\u65e5\u672c\u6751"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/73966429ff8101df816ce7c01a70001a85987e5e.jpg_160x100.jpg?05111850",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8d64\u6728\u5148\u751f\u306e\u65e5\u672c\u8a9e\u30b3\u30fc\u30ca\u30fc",
+    "room_id": 126830,
+    "online": 8
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/54b314b1dfdfa0f6fcba6d419b2e9b45bdc097cd.jpg",
+      "mid": 19767923,
+      "name": "\u8046\u90ce\u6ee1\u76ee"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/afdca1dfb045ff8c62e663b27d0faa3fb206635f.jpg_160x100.jpg?05111852",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u8046\u90ce\u6ee1\u76ee\u7eaf\u7537\u58f0\u9891\u9053",
+    "room_id": 141581,
+    "online": 8
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/eaf5e9b337a0093582035b56d94cfb77d653144c.jpg",
+      "mid": 629762,
+      "name": "Ten\u4e2810"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/b10a6b5dc555e6afae638030f57a4989905c11df.jpg_160x100.jpg?05111849",
+      "height": 180,
+      "width": 320
+    },
+    "title": "[\u8001\u54b8\u9c7c\u7684\u65e5\u5e38-LOL]",
+    "room_id": 56837,
+    "online": 7
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/4b66c1f5c4883ef9bd5d18017ec49383e0cef4d0.jpg",
+      "mid": 11655702,
+      "name": "\u53fd\u5427\u9171"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/0894e2c5646fa0fe9bbae901dd8f2221c4b427ae.jpg_160x100.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u9b3c\u54ed\u72fc\u568e\uff0c\u4f60\u70b9\u6211\u5531~",
+    "room_id": 75506,
+    "online": 7
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/8aff708799deff8b24b30bed76172191af5be345.jpg",
+      "mid": 457340,
+      "name": "\u6c90\u6c90\u5982\u70df"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/568bc24ecd71a7ba2c341cac0529bd43938cc10e.jpg_160x100.jpg?05111847",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u542c\u6b4c",
+    "room_id": 80565,
+    "online": 7
+  }, {
+    "owner": {
+      "face": "http:\/\/i1.hdslb.com\/bfs\/face\/81e90601cba00bedbb28290144945d252a216e80.jpg",
+      "mid": 14580083,
+      "name": "\u6653\u7ae5\u4e36"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/cff9d8fd3eeb29c699fb2eef571846338c012caa.jpg_160x100.jpg?05111846",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u7ae5\u5b9d\u5b9d\u5a07\u5598\u4e86\u4e09\u5929\u4e09\u591c",
+    "room_id": 100490,
+    "online": 5
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/62a43071c805a72a36b9bfa6414b1532cc57f4dc.jpg",
+      "mid": 1492155,
+      "name": "\u5c0f\u5d6c"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/66d6776f4effe5bf4744d25344d7649dc1a1eb44.jpg_160x100.jpg?05111853",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u7075\u9b42\u6b4c\u624b\u7ec3\u6b4c\u65e5\u5e38",
+    "room_id": 96617,
+    "online": 4
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/1771f7285cabde1722c179588b2c78d3a9fb73cd.jpg",
+      "mid": 17635279,
+      "name": "n\u4e2a1"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/1dd42e3a96fd2c33d4e96eab9fb81c40cf558707.jpg_160x100.jpg?05111850",
+      "height": 180,
+      "width": 320
+    },
+    "title": "n\u4e2a1\u7684\u76f4\u64ad\u95f4",
+    "room_id": 100810,
+    "online": 4
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/f3e652f9697231bcb6ef321f1ac5a2fa96386c33.jpg",
+      "mid": 17433006,
+      "name": "\u98ce\u6708\u79bb\u6b4c"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/9480d7479957bff8deafa1adff9a01894b1fa5b1.jpg_160x100.jpg?05111720",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5531\u5531\u6b4c \u73a9\u73a9\u6e38\u620f",
+    "room_id": 160708,
+    "online": 4
+  }, {
+    "owner": {
+      "face": "http:\/\/i0.hdslb.com\/bfs\/face\/356a4057ecccb0f482bd94679a0e643dfcd72654.jpg",
+      "mid": 14758239,
+      "name": "\u7af9\u7b0b\u3041"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/fa3bf285edcfe3921c5eae930348f3e35171fd72.jpg_160x100.jpg?05081226",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u4e00\u53ea\u840c\u65b0\u7684\u76f4\u64ad\u95f4",
+    "room_id": 146306,
+    "online": 3
+  }, {
+    "owner": {
+      "face": "http:\/\/i2.hdslb.com\/bfs\/face\/a62c3e065f46653feaeb32021deb8173e58c2f59.jpg",
+      "mid": 26736056,
+      "name": "\u5948\u4f55\u4e16\u754c"
+    },
+    "cover": {
+      "src": "http:\/\/i0.hdslb.com\/bfs\/live\/e7dd5e37bed6acd89d6d940c4258d014ab679581.jpg_160x100.jpg",
+      "height": 180,
+      "width": 320
+    },
+    "title": "\u5948\u4f55\u4e16\u754c\u7684\u76f4\u64ad\u95f4",
+    "room_id": 133949,
+    "online": 0
+  }]
+}

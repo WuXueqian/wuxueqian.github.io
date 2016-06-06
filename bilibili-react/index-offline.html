@@ -27,7 +27,7 @@
     <link rel="apple-touch-startup-image" sizes="640x920" href="dist/images/launcher.jpg" media="screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2)">
     <link rel="apple-touch-startup-image" sizes="320x640" href="dist/images/launcher.jpg" media="screen and (max-device-width: 320)">
     <link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="dist/styles/main-e9ec4f5f74.css">
+    <link rel="stylesheet" href="dist/styles/main-56e293d0ec.css">
     <script>
         function launchSplashLoaded(){
             setTimeout(function(){
@@ -54,11 +54,12 @@
 <script src="vender/js/react/15.0.1/react.min.js"></script>
 <script src="vender/js/react/15.0.1/react-dom.min.js"></script>
 <!--script src="vender/js/inobounce/0.1.2/inobounce.min.js"></script-->
-<script src="dist/scripts/app-c0d1a79cb0.js"></script>
+<script src="dist/scripts/app-62f76d6c53.js"></script>
 
 <script id="inobounce"></script>
 <script>
     (function(){
+        if(navigator.userAgent.toLowerCase().indexOf("safari")<=0||navigator.userAgent.toLowerCase().indexOf("chrome")>0)return;
         var inobounce = document.createElement('script'),
                 inobounceTarget = document.getElementById('inobounce');
         inobounce.async = true;

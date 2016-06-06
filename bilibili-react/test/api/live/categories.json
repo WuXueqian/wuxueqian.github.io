@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "slug": "paint",
+      "name": "绘画专区",
+      "icon": ""
+    },
+    {
+      "slug": "zhai",
+      "name": "御宅文化",
+      "icon": ""
+    },
+    {
+      "slug": "yule",
+      "name": "生活娱乐",
+      "icon": ""
+    },
+    {
+      "slug": "danji",
+      "name": "单机联机",
+      "icon": ""
+    },
+    {
+      "slug": "wangyou",
+      "name": "网络游戏",
+      "icon": ""
+    },
+    {
+      "slug": "jingji",
+      "name": "电子竞技",
+      "icon": ""
+    },
+    {
+      "slug": "fangying",
+      "name": "放映厅",
+      "icon": ""
+    },
+    {
+      "slug": "hot",
+      "name": "热门直播",
+      "icon": ""
+    },
+    {
+      "slug": "mobile",
+      "name": "手机直播",
+      "icon": ""
+    },
+    {
+      "slug": "dance",
+      "name": "唱见舞见",
+      "icon": ""
+    },
+    {
+      "slug": "all",
+      "name": "全部直播",
+      "icon": ""
+    }
+  ]
+}
